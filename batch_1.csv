@@ -1,0 +1,3 @@
+claim_id,patient_id,diagnosis,claim_amount,date_submitted
+B1-001,801,Flu,150.00,2026-04-15
+B1-002,802,Surgery,4500.00,2026-04-15

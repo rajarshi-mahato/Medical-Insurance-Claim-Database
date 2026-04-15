@@ -1,0 +1,4 @@
+claim_id,patient_name,diagnosis,claim_amount
+B001,Diana Prince,Surgery,5500.00
+B002,Evan Wright,Checkup,
+B003,Fiona Gallagher,Bloodwork,85.00

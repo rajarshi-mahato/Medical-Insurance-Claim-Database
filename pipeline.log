@@ -1,0 +1,25 @@
+2026-04-15 16:02:04 - --- Pipeline Execution Started ---
+2026-04-15 16:02:04 - Detected new file: claim_001.csv
+2026-04-15 16:02:04 - Moved claim_001.csv to processing zone.
+2026-04-15 16:02:05 - Successfully processed and archived claim_001.csv.
+2026-04-15 16:02:05 - Detected new file: claim_002.csv
+2026-04-15 16:02:05 - Moved claim_002.csv to processing zone.
+2026-04-15 16:02:06 - Successfully processed and archived claim_002.csv.
+2026-04-15 16:02:06 - Detected new file: claim_003.json
+2026-04-15 16:02:06 - Moved claim_003.json to processing zone.
+2026-04-15 16:02:07 - Successfully processed and archived claim_003.json.
+2026-04-15 16:02:07 - --- Pipeline Execution Completed ---
+2026-04-15 16:07:21 - --- Pipeline Execution Started ---
+2026-04-15 16:07:21 - Detected new file: claim_001.csv
+2026-04-15 16:07:21 - Moved claim_001.csv to processing zone.
+2026-04-15 16:07:22 - Successfully processed and archived claim_001.csv.
+2026-04-15 16:07:22 - Detected new file: claim_002.csv
+2026-04-15 16:07:22 - Moved claim_002.csv to processing zone.
+2026-04-15 16:07:23 - Successfully processed and archived claim_002.csv.
+2026-04-15 16:07:23 - Detected new file: claim_003.json
+2026-04-15 16:07:23 - Moved claim_003.json to processing zone.
+2026-04-15 16:07:24 - Successfully processed and archived claim_003.json.
+2026-04-15 16:07:24 - --- Pipeline Execution Completed ---
+2026-04-15 18:30:00 - Detected fraud in claim_999
+2026-04-15 18:30:05 - Detected error in system_alpha
+2026-04-15 18:30:10 - Successfully moved file

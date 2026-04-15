@@ -1,0 +1,4 @@
+claim_id,patient_name,diagnosis,claim_amount
+A001,Alice Smith,Flu,150.00
+A002,Bob Jones,,450.50
+A003,Charlie Brown,X-Ray,200.00

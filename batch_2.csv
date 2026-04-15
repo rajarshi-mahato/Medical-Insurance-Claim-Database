@@ -1,0 +1,3 @@
+claim_id,patient_id,diagnosis,claim_amount,date_submitted
+B2-001,905,X-Ray,250.00,2026-04-15
+B2-002,906,Checkup,95.00,2026-04-15
